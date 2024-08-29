@@ -12,4 +12,6 @@ Este projeto tem como objetivo realizar uma análise detalhada dos dados escolar
   
 ## Base de Dados
 A base de dados foi totalmente importada do site [a link](https://www.kaggle.com/) www.kaggle.com
+
+Dashboard da Analise [a link](https://app.powerbi.com/view?r=eyJrIjoiYjA5Mzc0NjgtZDhiNS00YzUyLTkwZjQtMTMzODZiODVjYTExIiwidCI6ImMwMDQ5YjAwLTU3NzktNDI1Yi04NTc3LWUyZWYwOWQ2YWVkZiJ9) 
   
