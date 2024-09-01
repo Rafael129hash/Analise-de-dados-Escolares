@@ -11,6 +11,6 @@ Este projeto tem como objetivo realizar uma análise detalhada dos dados escolar
 - **Jupyter Notebook**: Ambiente interativo para desenvolvimento e visualização de resultados
   
 ## Base de Dados
-A base de dados foi totalmente importada do site [a link](https://www.kaggle.com/) www.kaggle.com
+A base de dados foi totalmente importada do site [Kaggle](https://www.kaggle.com/) www.kaggle.com
 
 
